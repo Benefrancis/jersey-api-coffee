@@ -61,6 +61,9 @@ PUT	/coffee/{id}
 Os links abaixo foram fontes de pesquisa para criação deste conteúdo:
 
 
+    https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/getting-started.html
+    
+    
     https://blog.payara.fish/getting-started-with-jakarta-ee-9-hello-world
     
     https://docs.oracle.com/middleware/12212/wls/RESTF/intro-restful-service.htm
