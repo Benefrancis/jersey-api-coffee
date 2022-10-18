@@ -54,6 +54,12 @@ GET	/coffee/{id}
 
 PUT	/coffee/{id}
 
+# Exemplo da saída dos Recursos
+
+
+
+
+
 
 
 # Fontes 
