@@ -46,6 +46,8 @@ Trata-se apenas de um projeto de exemplo para guiar o estudo sobre APIs RESTFULL
 
 GET	/coffee
 
+GET	/coffee/{id}
+
 POST	/coffee
 
 DELETE	/coffee/{id}
@@ -54,10 +56,19 @@ GET	/coffee/{id}
 
 PUT	/coffee/{id}
 
-# Exemplo da saída dos Recursos
+
+# Recursos
+
+## Coffee/{id}
 
 
-
+{
+    "dataDeFabricacao": "2022-10-13",
+    "dataDeValidade": "2023-10-10",
+    "id": 30,
+    "nome": "Melita",
+    "preco": 22.0
+}
 
 
 
